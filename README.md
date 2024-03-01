@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnaJuliaCosta
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning {HTML, CSS, JS and React Native}
+- I am software development intern 👩🏻‍💻
 - 📫 https://www.linkedin.com/in/ana-julia-real-costa-9b1ab81a0/ -
       https://www.instagram.com/ana.xulia/
 
