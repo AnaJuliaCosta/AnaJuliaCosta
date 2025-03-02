@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnaJuliaCosta
-- I am software development intern 👩🏻‍💻
+- I am software developer 👩🏻‍💻
 - 📫 https://www.linkedin.com/in/ana-julia-real-costa-9b1ab81a0/ -
       https://www.instagram.com/ana.xulia/
 
